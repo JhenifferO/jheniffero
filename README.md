@@ -20,6 +20,4 @@
   <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
 </div>
 
-<div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jheniffero)](https://github.com/jheniffero/github-readme-stats">
-</div>
+

@@ -19,3 +19,7 @@
   <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
 </div>
+
+<div>
+<img src="https://github-readme-stats.vercel.app/api?jheniffero=anuraghazra&show_icons=true&theme=dark">
+</div>

@@ -21,5 +21,5 @@
 </div>
 
 <div>
-<img src="https://github-readme-stats.vercel.app/api?jheniffero=anuraghazra&show_icons=true&theme=dark">
+<img src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jheniffero)](https://github.com/jheniffero/github-readme-stats)">
 </div>

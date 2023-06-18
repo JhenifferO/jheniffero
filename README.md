@@ -1,7 +1,7 @@
 <h2>Hi, I'm Jheniffer </h2>
 
 <h3>About Me</h3>
-<p>I'm currently working as Junior Web Developer and also study analysis and system development.</p>
+<p>I'm currently working as Fullstack Web Developer Jr</p>
 
 <h3>How to reach me</h3>
 <div>
